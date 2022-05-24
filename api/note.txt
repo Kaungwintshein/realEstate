@@ -1,0 +1,8 @@
+house
+    - title
+    - price
+    - rent or sale
+    - desc
+    - images
+    - address
+    - user_id
